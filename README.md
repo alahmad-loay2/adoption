@@ -4,6 +4,14 @@ A simple Android app built using **Kotlin**, **Firebase**, and **ImgBB** for ima
 
 ---
 
+## 📑 Table of Contents
+
+1. [Features](#-features)
+2. [Installation & Setup](#-installation--setup)
+3. [Screenshots](#-screenshots)
+
+---
+
 ## 🚀 Features
 
 - Firebase Email/Password Authentication  
@@ -34,6 +42,8 @@ IMGBB_API_KEY=YOUR-API-KEY
 The google-services.json file is not committed to the project.
 You will need to set it up yourself.
 
+---
+
 #### Steps:
 
 - Go to Tools > Firebase in Android Studio.
@@ -46,4 +56,23 @@ You will need to set it up yourself.
 
 ✅ Once Firebase is configured and the API key is added, everything should work smoothly.
 
-🖼️ Screenshots
+---
+
+## 🖼️ Screenshots
+
+- **Login Screen**
+
+  ![Login Screen](imgs/login.jpg)
+
+- **Home Screen**
+
+  ![Home Screen](imgs/home.jpg)
+
+- **Listing Screen**
+
+  ![Listing Screen](imgs/listing.jpg)
+
+  ---
+
+## 🔝 [Back to Top](#-kotlin-firebase-app)
+
