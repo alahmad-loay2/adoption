@@ -8,7 +8,7 @@ A simple Android app built using **Kotlin**, **Firebase**, and **ImgBB** for ima
 
 1. [Features](#-features)
 2. [Installation & Setup](#-installation--setup)
-3. [Screenshots](#-Screenshots)
+3. [Screenshots](#🖼️-screenshots)
 
 ---
 
@@ -53,6 +53,7 @@ You will need to set it up yourself.
 - Enable Email/Password Authentication in the Firebase Console.
 
 - Enable Cloud Firestore.
+- follow steps to add firebase to android and place google-services.json in /app
 
 ✅ Once Firebase is configured and the API key is added, everything should work smoothly.
 
