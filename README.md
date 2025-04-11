@@ -8,7 +8,7 @@ A simple Android app built using **Kotlin**, **Firebase**, and **ImgBB** for ima
 
 1. [Features](#-features)
 2. [Installation & Setup](#-installation--setup)
-3. [Screenshots](#-screenshots)
+3. [Screenshots](#screenshots)
 
 ---
 
