@@ -18,8 +18,8 @@
         android:contentDescription="add listing"
         android:elevation="8dp"
         android:focusable="true"
-        android:src="@drawable/baseline_add_24"
-        app:backgroundTint="@color/secondaryColor"
+        android:src="@drawable/baseline_add_circle_24"
+        app:backgroundTint="@color/primaryColor"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
