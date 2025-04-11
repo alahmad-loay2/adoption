@@ -13,6 +13,8 @@ import com.example.adoption.databinding.ActivityMainBinding
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
 
+
+
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
@@ -36,7 +38,7 @@ class MainActivity : AppCompatActivity() {
                 .addOnSuccessListener { document ->
                     if (document.exists()) {
                         val username = document.getString("username")
-                        binding.usernameGreeting.text = "Hello, $username!"
+                        binding.usernameGreeting.text = "Welcome\n$username!"
                     } else {
                         Toast.makeText(this, "User data not found", Toast.LENGTH_SHORT).show()
                     }

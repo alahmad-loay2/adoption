@@ -29,6 +29,7 @@ class PetsAdapter(var pets: List<Pet>)
         holder.petContent.text = pet.content
         holder.petPhone.text = "Phone: ${pet.phone}"
 
+
         Glide.with(holder.itemView.context)
             .load(pet.imageUrl)
             .into(holder.petImage)
