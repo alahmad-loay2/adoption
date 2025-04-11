@@ -59,7 +59,7 @@ You will need to set it up yourself.
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 - **Login Screen**
 
